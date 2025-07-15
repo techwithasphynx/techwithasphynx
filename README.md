@@ -1,16 +1,22 @@
-## Hi there 👋
+# ASFHYNX 🦂
 
-<!--
-**techwithasphynx/techwithasphynx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Faceless. Fast. Focused.
 
-Here are some ideas to get you started:
+*💻 Building systems, templates & tools*  
+Frontend • Notion • Canva • Automation • AI APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 ASFHYNX Execution  
+- 🛠 Meta Front-End Dev + Canva + Notion  
+- 🛒 Creator of digital products & UI systems  
+- 🗂 Projects: [linktr.ee/asfhynx](https://linktr.ee/asfhynx)
+
+
+🧬 *Current Focus:*
+- Launching portfolio-ready front-end projects  
+- Publishing clean Notion/Canva templates  
+- Scaling silent digital income systems  
+- Operating under the ASFHYNX stealth identity
+
+---
+
+🧠 "One gets everything by giving its everything."
