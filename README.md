@@ -8,7 +8,7 @@ Frontend • Notion • Canva • Automation • AI APIs
 - 🧠 ASFHYNX Execution  
 - 🛠 Meta Front-End Dev + Canva + Notion  
 - 🛒 Creator of digital products & UI systems  
-- 🗂 Projects: [linktr.ee/asfhynx](https://linktr.ee/asfhynx)
+- 🗂 Projects:https://linktr.ee/tech_with_asphynx
 
 
 🧬 *Current Focus:*
